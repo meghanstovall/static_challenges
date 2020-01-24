@@ -1,6 +1,23 @@
-header {
+img.a {
   padding-left: 30px;
   padding-top: 30px;
+}
+
+img.b {
+  vertical-align: top;
+  padding-left: 90px;
+  padding-top: 100px;
+}
+
+img.c {
+  vertical-align: top;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+img.d {
+  padding-right: 20px;
+  padding-bottom: 300px;
 }
 
 h1 {
